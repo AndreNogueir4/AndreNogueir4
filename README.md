@@ -36,16 +36,3 @@ Aqui você vai encontrar um pouquinho sobre mim, minha trajetória e os projetos
 </div>
 
 ---
-
-## 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
-
----
-
-## 🌟 Projetos em Destaque
-
-### 🚀 [Projeto: Bot WebScraper]()
-É um projeto que consiste em um Bot de Telegram que executa scraping conforme solicitado
-
----
