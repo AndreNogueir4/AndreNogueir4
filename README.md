@@ -19,9 +19,9 @@
 ---
 
 ## 📈 Estatísticas
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AndreNogueir4&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreNogueir4&theme=radical" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AndreNogueir4&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreNogueir4&theme=radical" alt="streak" />
+</div>
 
 ---
 
