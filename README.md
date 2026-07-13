@@ -13,18 +13,18 @@
 
 ## 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,vscode,pycharm,fastapi,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,vscode,pycharm,linux" />
 </div>
 
 ---
 
 ## 📈 Estatísticas
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndreNogueir4&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreNogueir4&theme=radical" />
-</div>
+</p>
 
 ---
 
 ## Contribution
-![Snake animation](https://raw.githubusercontent.com/AndreNogueir4/AndreNogueir4/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AndreNogueir4/AndreNogueir4/output/github-snake-dark.svg)
