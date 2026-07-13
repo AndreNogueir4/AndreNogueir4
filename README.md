@@ -20,7 +20,12 @@
 
 ## 📈 Estatísticas
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AndreNogueir4&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreNogueir4&theme=radical" />
+  <a href="https://github.com/AndreNogueir4">
+    <img src="https://github-readme-stats.vercel.app/api?username=AndreNogueir4&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/AndreNogueir4">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreNogueir4&theme=radical" />
+  </a>
 </div>
 
 ---
