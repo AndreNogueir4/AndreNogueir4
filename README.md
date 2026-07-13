@@ -1,38 +1,30 @@
-# 👋 Hello, World!
+<h1 align="center">Olá, eu sou o André Nogueira!</h1>
 
-Bem-vindo(a) !!
-Aqui você vai encontrar um pouquinho sobre mim, minha trajetória e os projetos que desenvolvo 🚀.
+<p align="center">
+  💻 Engenheiro de Computação em formação | Backend Developer <br>
+  🚀 Focado em automação, data pipelines e web scraping.
+</p>
 
----
-
-## 📜 Sobre mim
-
-- 🎓 **Cursando:** Engenharia de Computação na Faculdade Impacta
-- 💼 **Atualmente trabalhando com:** Automação usando Python em uma empresa de tecnologia
-- 🌱 **Aprendendo:** Sempre explorando novas tecnologias e me aprimorando
-- 💻 **Conhecimentos:**
-    - HTML, CSS, JavaScript
-    - Python
+<p align="center">
+  <a href="https://github.com/AndreNogueir4"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=32DA9A)
-
----
-
-## 📈 Minhas Estatísticas
-
+## 🛠 Tech Stack
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreNogueir4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNogueir4&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,vscode,pycharm,fastapi,linux" />
 </div>
 
 ---
+
+## 📈 Estatísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreNogueir4&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreNogueir4&theme=radical" alt="Streak" />
+</div>
+
+---
+
+## Contribution
+![Snake animation](https://raw.githubusercontent.com/AndreNogueir4/AndreNogueir4/output/github-snake.svg)
